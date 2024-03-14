@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://github.com/SriramNamratha/SriramNamratha/blob/main/main%20pic.jpg" alt="profile"/>
+<img src="header.jpg" alt="profile"/>
 </h3>
 <h3>
 <img src = "https://github.com/SriramNamratha/SriramNamratha/blob/main/pic%202.jpg" alt = "stacks">
