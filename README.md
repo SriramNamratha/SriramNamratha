@@ -18,30 +18,30 @@ Welcome to my GitHub profile! 🌟 I’m passionate about coding 💻 and am par
 
 <div style="display: flex;">
   <div style="flex: 50%;">
-    <img src="path/to/your_picture.png" alt="Your Picture" style="float:left;" width="200">
+    <img src="icons/tech.png" alt="Your Picture" style="float:left;" width="200">
   </div>
   <div style="flex: 50%;">
     <table>
       <tr>
-        <td><img src="icons/c.png" alt="C Language" width="40"/></td>
-        <td><img src="icons/py.png" alt="Python" width="40"/></td>
-        <td><img src="icons/java.png" alt="Java" width="40"/></td>
-        <td><img src="icons/html.png" alt="HTML" width="40"/></td>
+        <td><img src="icons/c.png" alt="C Language" width="60"/></td>
+        <td><img src="icons/py.png" alt="Python" width="60"/></td>
+        <td><img src="icons/java.png" alt="Java" width="60"/></td>
+        <td><img src="icons/html.png" alt="HTML" width="60"/></td>
       </tr>
       <tr>
-        <td><img src="icons/css.png" alt="CSS" width="40"/></td>
-        <td><img src="icons/boot.png" alt="Bootstrap" width="40"/></td>
-        <td><img src="icons/js.png" alt="JavaScript" width="40"/></td>
-        <td><img src="icons/figma.png" alt="Figma" width="40"/></td>
+        <td><img src="icons/css.png" alt="CSS" width="60"/></td>
+        <td><img src="icons/boot.png" alt="Bootstrap" width="60"/></td>
+        <td><img src="icons/js.png" alt="JavaScript" width="60"/></td>
+        <td><img src="icons/figma.png" alt="Figma" width="60"/></td>
       </tr>
       <tr>
-        <td><img src="icons/studio.png" alt="Android" width="40"/></td>
-        <td><img src="icons/kotlin.png" alt="Kotlin" width="40"/></td>
-        <td><img src="icons/haskell.png" alt="Haskell" width="40"/></td>
-        <td><img src="icons/git.png" alt="Git" width="40"/></td>
+        <td><img src="icons/studio.png" alt="Android" width="60"/></td>
+        <td><img src="icons/kotlin.png" alt="Kotlin" width="60"/></td>
+        <td><img src="icons/haskell.png" alt="Haskell" width="60"/></td>
+        <td><img src="icons/git.png" alt="Git" width="60"/></td>
       </tr>
       <tr>
-        <td><img src="icons/lab.png" alt="GitLab" width="40"/></td>
+        <td><img src="icons/lab.png" alt="GitLab" width="60"/></td>
       </tr>
     </table>
   </div>
@@ -51,10 +51,11 @@ Welcome to my GitHub profile! 🌟 I’m passionate about coding 💻 and am par
 
 I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to work together on projects or simply have a tech discussion!
 
-[![LinkedIn](icons/inlogo.png)](https://in.linkedin.com/in/namratha-sriram-472245259)
-
-[![Email](icons/mail.png)](namrathasriram28@gmail.com)
-<br>
+<div align="center">
+ <a href="https://in.linkedin.com/in/namratha-sriram-472245259" target="_blank">
+ <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a>
+</div> 
  🌐 Let’s connect and create something amazing together.
 
  <h3 align="center">
