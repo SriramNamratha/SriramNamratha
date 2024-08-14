@@ -16,33 +16,33 @@ Welcome to my GitHub profile! 🌟 I’m passionate about coding 💻 and am par
 
 ## Tech Stack and More
 
-<table>
+<table style="border-collapse: collapse; border: none; padding: 10px;">
   <tr>
-    <td style="vertical-align: top; text-align: center;">
+    <td style="vertical-align: top; text-align: center; padding: 10px;">
       <img src="icons/tech.png" alt="Your Picture" width="200">
     </td>
-    <td style="vertical-align: top;">
-      <table>
+    <td style="vertical-align: top; padding: 10px;">
+      <table style="border-collapse: collapse; border: none; padding: 10px;">
         <tr>
-          <td><img src="icons/c.png" alt="C Language" width="60"/></td>
-          <td><img src="icons/py.png" alt="Python" width="60"/></td>
-          <td><img src="icons/java.png" alt="Java" width="60"/></td>
-          <td><img src="icons/html.png" alt="HTML" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/c.png" alt="C Language" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/py.png" alt="Python" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/java.png" alt="Java" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/html.png" alt="HTML" width="60"/></td>
         </tr>
         <tr>
-          <td><img src="icons/css.png" alt="CSS" width="60"/></td>
-          <td><img src="icons/boot.png" alt="Bootstrap" width="60"/></td>
-          <td><img src="icons/js.png" alt="JavaScript" width="60"/></td>
-          <td><img src="icons/figma.png" alt="Figma" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/css.png" alt="CSS" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/boot.png" alt="Bootstrap" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/js.png" alt="JavaScript" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/figma.png" alt="Figma" width="60"/></td>
         </tr>
         <tr>
-          <td><img src="icons/studio.png" alt="Android" width="60"/></td>
-          <td><img src="icons/kotlin.png" alt="Kotlin" width="60"/></td>
-          <td><img src="icons/haskell.png" alt="Haskell" width="60"/></td>
-          <td><img src="icons/git.png" alt="Git" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/studio.png" alt="Android" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/kotlin.png" alt="Kotlin" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/haskell.png" alt="Haskell" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/git.png" alt="Git" width="60"/></td>
         </tr>
         <tr>
-          <td><img src="icons/lab.png" alt="GitLab" width="60"/></td>
+          <td style="padding: 5px;"><img src="icons/lab.png" alt="GitLab" width="60"/></td>
         </tr>
       </table>
     </td>
