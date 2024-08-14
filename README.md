@@ -52,13 +52,12 @@ Welcome to my GitHub profile! 🌟 I’m passionate about coding 💻 and am par
 ## Get in Touch
 
 I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to work together on projects or simply have a tech discussion!
-
+ 🌐 Let’s connect and create something amazing together.
 <div align="center">
  <a href="https://in.linkedin.com/in/namratha-sriram-472245259" target="_blank">
  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a>
 </div> 
- 🌐 Let’s connect and create something amazing together.
 
  <h3 align="center">
 <img src="icons/header_2.png" alt="end"/>
