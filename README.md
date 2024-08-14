@@ -64,4 +64,4 @@ I’m always open to new opportunities and collaborations. Feel free to reach ou
 <img src="icons/header_2.png" alt="end"/>
 </h3>
 <h3 align="center"> </h3>
-<h3 align="center"> 👇 My Developments 👇 </h3> --> 
+<h3 align="center"> 👇 My Developments 👇 </h3> 
